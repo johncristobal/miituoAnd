@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--item android:id="@+id/rpt_odometer"
+        android:title="Reportar Odometro"
+        android:icon="@drawable/ic_report_odo"
+        /-->
+</menu>

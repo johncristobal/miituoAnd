@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">miituo</string>
+    <string name="title_activity_sync">SyncActivity</string>
+
+    <string name="indicacion1">Introduce el Número Celular que registraste en nuestra web, esto para sincronizar con tu perfil de usuario.</string>
+    <string name="fontapp">calibri</string>
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Iniciar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_vehicle_pictures">VehiclePictures</string>
+    <string name="title_activity_detalles">DetallesActivity</string>
+    <string name="title_activity_vehicle_odometer">VehicleOdometer</string>
+    <string name="title_activity_report_odometer">ReportOdometerActivity</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="sharedName">miituo.com</string>
+
+    <string name="slide_1_title">Checa...</string>
+    <string name="slide_1_desc">los ultimos juegos en lìnea!</string>
+
+    <string name="slide_2_title">Busca...</string>
+    <string name="slide_2_desc">juegos para divertirte un rato!</string>
+
+    <string name="slide_3_title">Sube...</string>
+    <string name="slide_3_desc">tus propios juegos para compartir e intercambiar!</string>
+    <string name="title_activity_token_sms">TokenSmsActivity</string>
+    <string name="title_activity_confirm">ConfirmActivity</string>
+    <string name="title_activity_last_odometer">LastOdometerActivity</string>
+    <string name="dbversion">25</string>
+    <string name="appversion">version 4.9.1</string>
+    <string name="title_activity_tuto1">Tuto1Activity</string>
+    <string name="title_activity_acerca">AcercaActivity</string>
+    <string name="title_activity_aviso">AvisoActivity</string>
+    <string name="title_activity_cotiza">CotizaActivity</string>
+
+    <string name="facebook_app_id">2002082330076040</string>
+
+</resources>

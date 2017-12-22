@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849826548503",
+    "firebase_url": "https://miituo-app-mvp.firebaseio.com",
+    "project_id": "miituo-app-mvp",
+    "storage_bucket": "miituo-app-mvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849826548503:android:f8ad3b7b667439a2",
+        "android_client_info": {
+          "package_name": "miituo.com.miituo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849826548503-pr0ei672hhmdlhr2vpr63imovdle5h5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMfprICxh5n5oKug3RXYNaKY3if8FiaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

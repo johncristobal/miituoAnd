@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        app:srcCompat="@drawable/tdc"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_below="@+id/imageView6"
+        android:layout_marginTop="10dp"
+        app:srcCompat="@drawable/mp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/imageView6"
+        android:layout_marginLeft="25dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="25dp"
+        android:text="¿Cambiar tarjeta de crédito?"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView52"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView23"
+        android:layout_alignStart="@+id/textView23"
+        android:layout_below="@+id/textView23"
+        android:layout_marginTop="50dp"
+        android:text="Te decimos cómo"
+        android:textColor="#2D3731" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/azul_miituo"
+        android:text="Ver"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/textView52"
+        android:layout_alignLeft="@+id/textView52"
+        android:layout_alignStart="@+id/textView52" />
+
+    <TextView
+        android:id="@+id/textView53"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView7"
+        android:layout_marginTop="25dp"
+        android:layout_toEndOf="@+id/textView23"
+        android:layout_toRightOf="@+id/textView23"
+        android:gravity="right"
+        android:paddingEnd="12dp"
+        android:text="Quieres cambiar tu método de pago"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView54"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView53"
+        android:layout_alignRight="@+id/textView53"
+        android:layout_below="@+id/textView53"
+        android:layout_marginTop="51dp"
+        android:gravity="end"
+        android:paddingEnd="12dp"
+        android:text="Te decimos cómo"
+        android:textColor="#2D3731" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginTop="18dp"
+        android:background="@color/azul_miituo"
+        android:text="Ver"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/textView54"
+        android:layout_alignLeft="@+id/textView54"
+        android:layout_alignStart="@+id/textView54"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp" />
+</RelativeLayout>
